@@ -81,6 +81,16 @@ The SQL queries are available in:
 - Customer ratings
 - Driver ratings
 
+## Key Insights
+
+- The dataset contains approximately **103K ride bookings**.
+- Approximately **64K rides were successfully completed**, while the overall cancellation rate was **28.08%**.
+- The dashboard shows differences in **booking value and ride distance across vehicle types**.
+- **Payment methods** contribute differently to overall booking value.
+- Ride volume and ride distance show **variation over time**.
+- Customer and driver cancellation patterns can be compared separately.
+- Customer and driver ratings vary across different vehicle types.
+
 ## Conclusion
 
 The project combines SQL-based data analysis with Power BI visualization to provide a comprehensive view of Ola ride booking performance and customer experience.
